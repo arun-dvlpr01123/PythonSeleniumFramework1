@@ -1,0 +1,311 @@
+2021-07-08 21:01:47,214 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:01:47,495 : INFO :fill_form : Succes Message captured
+2021-07-08 21:01:47,496 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:01:48,191 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:01:48,191 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:01:48,440 : INFO :fill_form : Succes Message captured
+2021-07-08 21:01:48,440 : INFO :fill_form : Succes Message captured
+2021-07-08 21:01:48,440 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:01:48,440 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:01:49,134 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:01:49,134 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:01:49,134 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:01:49,356 : INFO :fill_form : Succes Message captured
+2021-07-08 21:01:49,356 : INFO :fill_form : Succes Message captured
+2021-07-08 21:01:49,356 : INFO :fill_form : Succes Message captured
+2021-07-08 21:01:49,357 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:01:49,357 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:01:49,357 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:03:36,140 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:03:36,424 : INFO :fill_form : Succes Message captured
+2021-07-08 21:03:36,424 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:03:37,101 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:03:37,101 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:03:37,366 : INFO :fill_form : Succes Message captured
+2021-07-08 21:03:37,366 : INFO :fill_form : Succes Message captured
+2021-07-08 21:03:37,366 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:03:37,366 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:03:38,047 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:03:38,047 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:03:38,047 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:03:38,269 : INFO :fill_form : Succes Message captured
+2021-07-08 21:03:38,269 : INFO :fill_form : Succes Message captured
+2021-07-08 21:03:38,269 : INFO :fill_form : Succes Message captured
+2021-07-08 21:03:38,269 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:03:38,269 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:03:38,269 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:07:19,397 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:07:19,739 : INFO :fill_form : Succes Message captured
+2021-07-08 21:07:19,743 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:07:20,508 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:07:20,508 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:07:20,821 : INFO :fill_form : Succes Message captured
+2021-07-08 21:07:20,821 : INFO :fill_form : Succes Message captured
+2021-07-08 21:07:20,824 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:07:20,824 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:07:21,627 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:07:21,627 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:07:21,627 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:07:21,903 : INFO :fill_form : Succes Message captured
+2021-07-08 21:07:21,903 : INFO :fill_form : Succes Message captured
+2021-07-08 21:07:21,903 : INFO :fill_form : Succes Message captured
+2021-07-08 21:07:21,907 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:07:21,907 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:07:21,907 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:14:35,779 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 21:14:37,748 : INFO :test_e2e : iphone X
+2021-07-08 21:14:37,749 : INFO :test_e2e : iphone Xdid not match
+2021-07-08 21:14:37,791 : INFO :test_e2e : Samsung Note 8
+2021-07-08 21:14:37,791 : INFO :test_e2e : Samsung Note 8did not match
+2021-07-08 21:14:37,830 : INFO :test_e2e : Nokia Edge
+2021-07-08 21:14:37,831 : INFO :test_e2e : Nokia Edgedid not match
+2021-07-08 21:14:37,870 : INFO :test_e2e : Blackberry
+2021-07-08 21:14:37,944 : INFO :test_e2e : Blackberrymatch found
+2021-07-08 21:14:38,129 : ERROR :test_e2e : Blackberry
+2021-07-08 21:14:38,154 : ERROR :test_e2e : blackberry
+2021-07-08 21:14:38,154 : ERROR :test_e2e : Test Case Failed since name of item ordered does not match what is in checkout
+2021-07-08 21:14:44,038 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 21:14:44,038 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 21:14:45,352 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 21:14:45,352 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 21:14:45,352 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 21:14:51,085 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:14:51,369 : INFO :fill_form : Succes Message captured
+2021-07-08 21:14:51,370 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:14:52,067 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:14:52,067 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:14:52,326 : INFO :fill_form : Succes Message captured
+2021-07-08 21:14:52,326 : INFO :fill_form : Succes Message captured
+2021-07-08 21:14:52,327 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:14:52,327 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:14:53,022 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:14:53,022 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:14:53,022 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 21:14:53,247 : INFO :fill_form : Succes Message captured
+2021-07-08 21:14:53,247 : INFO :fill_form : Succes Message captured
+2021-07-08 21:14:53,247 : INFO :fill_form : Succes Message captured
+2021-07-08 21:14:53,248 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:14:53,248 : ERROR :test_home_page : Test case Failed
+2021-07-08 21:14:53,248 : ERROR :test_home_page : Test case Failed
+2021-07-08 22:17:36,482 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 22:17:36,774 : INFO :fill_form : Succes Message captured
+2021-07-08 22:17:36,775 : ERROR :test_home_page : Test case Failed
+2021-07-08 22:17:37,460 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 22:17:37,460 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 22:17:37,720 : INFO :fill_form : Succes Message captured
+2021-07-08 22:17:37,720 : INFO :fill_form : Succes Message captured
+2021-07-08 22:17:37,720 : ERROR :test_home_page : Test case Failed
+2021-07-08 22:17:37,720 : ERROR :test_home_page : Test case Failed
+2021-07-08 22:17:38,408 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 22:17:38,408 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 22:17:38,408 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 22:17:38,627 : INFO :fill_form : Succes Message captured
+2021-07-08 22:17:38,627 : INFO :fill_form : Succes Message captured
+2021-07-08 22:17:38,627 : INFO :fill_form : Succes Message captured
+2021-07-08 22:17:38,628 : ERROR :test_home_page : Test case Failed
+2021-07-08 22:17:38,628 : ERROR :test_home_page : Test case Failed
+2021-07-08 22:17:38,628 : ERROR :test_home_page : Test case Failed
+2021-07-08 22:17:56,354 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:17:57,731 : INFO :test_e2e : iphone X
+2021-07-08 22:17:57,732 : INFO :test_e2e : iphone Xdid not match
+2021-07-08 22:17:57,755 : INFO :test_e2e : Samsung Note 8
+2021-07-08 22:17:57,756 : INFO :test_e2e : Samsung Note 8did not match
+2021-07-08 22:17:57,778 : INFO :test_e2e : Nokia Edge
+2021-07-08 22:17:57,778 : INFO :test_e2e : Nokia Edgedid not match
+2021-07-08 22:17:57,807 : INFO :test_e2e : Blackberry
+2021-07-08 22:17:57,880 : INFO :test_e2e : Blackberrymatch found
+2021-07-08 22:17:58,071 : ERROR :test_e2e : Blackberry
+2021-07-08 22:17:58,094 : ERROR :test_e2e : blackberry
+2021-07-08 22:17:58,094 : ERROR :test_e2e : Test Case Failed since name of item ordered does not match what is in checkout
+2021-07-08 22:18:04,028 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:18:04,028 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:18:05,369 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:18:05,369 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:18:05,369 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:20:18,489 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:20:20,426 : INFO :test_e2e : iphone X
+2021-07-08 22:20:20,426 : INFO :test_e2e : iphone Xdid not match
+2021-07-08 22:20:20,451 : INFO :test_e2e : Samsung Note 8
+2021-07-08 22:20:20,451 : INFO :test_e2e : Samsung Note 8did not match
+2021-07-08 22:20:20,486 : INFO :test_e2e : Nokia Edge
+2021-07-08 22:20:20,486 : INFO :test_e2e : Nokia Edgedid not match
+2021-07-08 22:20:20,522 : INFO :test_e2e : Blackberry
+2021-07-08 22:20:20,595 : INFO :test_e2e : Blackberrymatch found
+2021-07-08 22:20:20,780 : ERROR :test_e2e : Blackberry
+2021-07-08 22:20:20,806 : ERROR :test_e2e : blackberry
+2021-07-08 22:20:20,806 : ERROR :test_e2e : Test Case Failed since name of item ordered does not match what is in checkout
+2021-07-08 22:20:26,690 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:20:26,690 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:20:28,020 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:20:28,020 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:20:28,020 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:23:10,877 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:23:13,242 : INFO :test_e2e : iphone X
+2021-07-08 22:23:13,242 : INFO :test_e2e : iphone Xdid not match
+2021-07-08 22:23:13,266 : INFO :test_e2e : Samsung Note 8
+2021-07-08 22:23:13,266 : INFO :test_e2e : Samsung Note 8did not match
+2021-07-08 22:23:13,289 : INFO :test_e2e : Nokia Edge
+2021-07-08 22:23:13,289 : INFO :test_e2e : Nokia Edgedid not match
+2021-07-08 22:23:13,316 : INFO :test_e2e : Blackberry
+2021-07-08 22:23:13,386 : INFO :test_e2e : Blackberrymatch found
+2021-07-08 22:23:13,566 : ERROR :test_e2e : Blackberry
+2021-07-08 22:23:13,590 : ERROR :test_e2e : blackberry
+2021-07-08 22:23:13,590 : ERROR :test_e2e : Test Case Failed since name of item ordered does not match what is in checkout
+2021-07-08 22:23:19,534 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:23:19,534 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:23:21,870 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:23:21,870 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:23:21,870 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:30:54,846 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:30:56,236 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:30:56,236 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:30:57,532 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:30:57,532 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:30:57,532 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:33:49,767 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:33:51,204 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:33:51,204 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:33:52,568 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:33:52,568 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:33:52,568 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:34:37,637 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:37:49,273 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:37:51,670 : INFO :test_e2e : iphone X
+2021-07-08 22:37:51,670 : INFO :test_e2e : iphone Xdid not match
+2021-07-08 22:37:51,702 : INFO :test_e2e : Samsung Note 8
+2021-07-08 22:37:51,703 : INFO :test_e2e : Samsung Note 8did not match
+2021-07-08 22:37:51,730 : INFO :test_e2e : Nokia Edge
+2021-07-08 22:37:51,731 : INFO :test_e2e : Nokia Edgedid not match
+2021-07-08 22:37:51,761 : INFO :test_e2e : Blackberry
+2021-07-08 22:37:51,831 : INFO :test_e2e : Blackberrymatch found
+2021-07-08 22:37:52,011 : ERROR :test_e2e : Blackberry
+2021-07-08 22:37:52,032 : ERROR :test_e2e : blackberry
+2021-07-08 22:37:52,033 : ERROR :test_e2e : Test Case Failed since name of item ordered does not match what is in checkout
+2021-07-08 22:37:57,976 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:37:57,976 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:38:00,358 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:38:00,358 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:38:00,358 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:43:13,926 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:43:15,285 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:43:15,285 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:43:16,574 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:43:16,574 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:43:16,574 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:44:01,298 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:44:12,759 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:44:12,759 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:44:24,123 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:44:24,123 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:44:24,123 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:45:30,268 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:45:32,676 : INFO :test_e2e : iphone X
+2021-07-08 22:45:32,676 : INFO :test_e2e : iphone Xdid not match
+2021-07-08 22:45:32,699 : INFO :test_e2e : Samsung Note 8
+2021-07-08 22:45:32,700 : INFO :test_e2e : Samsung Note 8did not match
+2021-07-08 22:45:32,722 : INFO :test_e2e : Nokia Edge
+2021-07-08 22:45:32,722 : INFO :test_e2e : Nokia Edgedid not match
+2021-07-08 22:45:32,752 : INFO :test_e2e : Blackberry
+2021-07-08 22:45:32,832 : INFO :test_e2e : Blackberrymatch found
+2021-07-08 22:45:33,008 : ERROR :test_e2e : Blackberry
+2021-07-08 22:45:33,035 : ERROR :test_e2e : blackberry
+2021-07-08 22:45:33,035 : ERROR :test_e2e : Test Case Failed since name of item ordered does not match what is in checkout
+2021-07-08 22:45:38,989 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:45:38,989 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:45:41,374 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:45:41,374 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 22:45:41,374 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 23:26:58,904 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 23:27:01,305 : INFO :test_e2e : iphone X
+2021-07-08 23:27:01,305 : INFO :test_e2e : iphone Xdid not match
+2021-07-08 23:27:01,328 : INFO :test_e2e : Samsung Note 8
+2021-07-08 23:27:01,328 : INFO :test_e2e : Samsung Note 8did not match
+2021-07-08 23:27:01,352 : INFO :test_e2e : Nokia Edge
+2021-07-08 23:27:01,352 : INFO :test_e2e : Nokia Edgedid not match
+2021-07-08 23:27:01,375 : INFO :test_e2e : Blackberry
+2021-07-08 23:27:01,444 : INFO :test_e2e : Blackberrymatch found
+2021-07-08 23:27:01,632 : ERROR :test_e2e : Blackberry
+2021-07-08 23:27:01,655 : ERROR :test_e2e : blackberry
+2021-07-08 23:27:01,655 : ERROR :test_e2e : Test Case Failed since name of item ordered does not match what is in checkout
+2021-07-08 23:27:07,655 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 23:27:07,655 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 23:27:10,027 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 23:27:10,027 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 23:27:10,027 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-08 23:27:16,976 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 23:27:17,226 : INFO :fill_form : Succes Message captured
+2021-07-08 23:27:17,226 : ERROR :test_home_page : Test case Failed
+2021-07-08 23:27:17,808 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 23:27:17,808 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 23:27:18,003 : INFO :fill_form : Succes Message captured
+2021-07-08 23:27:18,003 : INFO :fill_form : Succes Message captured
+2021-07-08 23:27:18,003 : ERROR :test_home_page : Test case Failed
+2021-07-08 23:27:18,003 : ERROR :test_home_page : Test case Failed
+2021-07-08 23:27:18,640 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 23:27:18,640 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 23:27:18,640 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-08 23:27:18,793 : INFO :fill_form : Succes Message captured
+2021-07-08 23:27:18,793 : INFO :fill_form : Succes Message captured
+2021-07-08 23:27:18,793 : INFO :fill_form : Succes Message captured
+2021-07-08 23:27:18,793 : ERROR :test_home_page : Test case Failed
+2021-07-08 23:27:18,793 : ERROR :test_home_page : Test case Failed
+2021-07-08 23:27:18,793 : ERROR :test_home_page : Test case Failed
+2021-07-10 11:22:27,001 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-10 11:22:29,586 : INFO :test_e2e : iphone X
+2021-07-10 11:22:29,586 : INFO :test_e2e : iphone Xdid not match
+2021-07-10 11:22:29,625 : INFO :test_e2e : Samsung Note 8
+2021-07-10 11:22:29,625 : INFO :test_e2e : Samsung Note 8did not match
+2021-07-10 11:22:29,666 : INFO :test_e2e : Nokia Edge
+2021-07-10 11:22:29,666 : INFO :test_e2e : Nokia Edgedid not match
+2021-07-10 11:22:29,709 : INFO :test_e2e : Blackberry
+2021-07-10 11:22:29,787 : INFO :test_e2e : Blackberrymatch found
+2021-07-10 11:22:29,961 : ERROR :test_e2e : Blackberry
+2021-07-10 11:22:29,989 : ERROR :test_e2e : blackberry
+2021-07-10 11:22:29,990 : ERROR :test_e2e : Test Case Failed since name of item ordered does not match what is in checkout
+2021-07-10 11:22:35,899 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-10 11:22:35,899 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-10 11:22:38,252 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-10 11:22:38,252 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-10 11:22:38,252 : INFO :test_e2e : Test case Starts here by opening the URL
+2021-07-10 11:22:45,276 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 11:22:45,556 : INFO :fill_form : Succes Message captured
+2021-07-10 11:22:45,556 : ERROR :test_home_page : Test case Failed
+2021-07-10 11:22:46,254 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 11:22:46,254 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 11:22:46,519 : INFO :fill_form : Succes Message captured
+2021-07-10 11:22:46,519 : INFO :fill_form : Succes Message captured
+2021-07-10 11:22:46,520 : ERROR :test_home_page : Test case Failed
+2021-07-10 11:22:46,520 : ERROR :test_home_page : Test case Failed
+2021-07-10 11:22:47,228 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 11:22:47,228 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 11:22:47,228 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 11:22:47,451 : INFO :fill_form : Succes Message captured
+2021-07-10 11:22:47,451 : INFO :fill_form : Succes Message captured
+2021-07-10 11:22:47,451 : INFO :fill_form : Succes Message captured
+2021-07-10 11:22:47,452 : ERROR :test_home_page : Test case Failed
+2021-07-10 11:22:47,452 : ERROR :test_home_page : Test case Failed
+2021-07-10 11:22:47,452 : ERROR :test_home_page : Test case Failed
+2021-07-10 18:19:04,865 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:19:05,813 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:19:05,813 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:19:06,796 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:19:06,796 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:19:06,796 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:20:45,426 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:20:45,713 : INFO :fill_form : Succes Message captured
+2021-07-10 18:20:45,714 : ERROR :test_home_page : Test case Failed
+2021-07-10 18:20:46,395 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:20:46,395 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:20:46,667 : INFO :fill_form : Succes Message captured
+2021-07-10 18:20:46,667 : INFO :fill_form : Succes Message captured
+2021-07-10 18:20:46,668 : ERROR :test_home_page : Test case Failed
+2021-07-10 18:20:46,668 : ERROR :test_home_page : Test case Failed
+2021-07-10 18:20:47,367 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:20:47,367 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:20:47,367 : INFO :fill_form : I love ice cream checkbox clicked
+2021-07-10 18:20:47,628 : INFO :fill_form : Succes Message captured
+2021-07-10 18:20:47,628 : INFO :fill_form : Succes Message captured
+2021-07-10 18:20:47,628 : INFO :fill_form : Succes Message captured
+2021-07-10 18:20:47,629 : ERROR :test_home_page : Test case Failed
+2021-07-10 18:20:47,629 : ERROR :test_home_page : Test case Failed
+2021-07-10 18:20:47,629 : ERROR :test_home_page : Test case Failed
